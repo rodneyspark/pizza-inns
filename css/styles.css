@@ -1,0 +1,30 @@
+.new-pizza-size {
+    width: 50%;
+  }
+
+  #show-pizza-results {
+    display: none;
+    display: inline;
+  }
+
+  li {
+    font-size: 30px;
+  }
+  body{
+      background-image: url(../chad-montano-MqT0asuoIcU-unsplash.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: normal;
+  }
+  .section1{
+      background-image:url(../amirali-mirhashemian-w1iMfs6yxuo-unsplash.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: normal;
+      text-align: center;
+  } 
+  .raw{
+    display: flex;
+  }
